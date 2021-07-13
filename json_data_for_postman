@@ -1,0 +1,24 @@
+ 
+{
+"searchOptions": {
+"matchScore": "true",
+"maxRecords": "5",
+"matchIndicators": "true"
+},
+"header": {
+"startIndex": "0",
+"requestMessageId": "Request_001",
+"messageDateTime": "2021-07-13T11:43:35.903"
+},
+"searchAttrList": {
+"distanceUnit": "M",
+"distance": "2",
+"merchantCountryCode": "840",
+"latitude": "37.363922",
+"longitude": "-121.929163",
+"merchantName": "Starbucks"
+},
+"responseAttrList": [
+"GNLOCATOR"
+]
+}
